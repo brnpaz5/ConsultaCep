@@ -1,1 +1,3 @@
-Consulta Cep \n\n App Desktop Simples com UI que retorna informações referente ao cep desejado.
+Consulta Cep
+
+App Desktop Simples desenvolvido em Python com UI que retorna informações referente ao cep desejado.
